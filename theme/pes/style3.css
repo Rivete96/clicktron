@@ -1,0 +1,71 @@
+
+.err1 {
+    background:#ffecec url('images/error.png') no-repeat 10px 50%;
+    border:1px solid #f5aca6;
+	color:#555;
+    border-radius:10px;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    margin:10px;
+	text-align:left;
+    font-weight:bold;
+}
+.suc1 {
+    background:#e9ffd9 url('images/success.png') no-repeat 10px 50%;
+    border:1px solid #a6ca8a;
+	color:#555;
+    border-radius:10px;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    margin:10px;
+	text-align:left;
+    font-weight:bold;
+}
+.war1 {
+    background:#fff8c4 url('images/warning.png') no-repeat 10px 50%;
+    border:1px solid #f2c779;
+	color:#555;
+    border-radius:10px;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    margin:10px;
+	text-align:left;
+    font-weight:bold;
+}
+.not1 {
+    background:#e3f7fc url('images/notice.png') no-repeat 10px 50%;
+    border:1px solid #8ed9f6;
+	color:#555;
+    border-radius:10px;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    margin:10px;
+	text-align:left;
+    font-weight:bold;
+}
+.noteinfo {
+width: 214px;
+height: 100px;
+text-align: center;
+text-align:left;
+margin-top: 10px;
+background: #efefef;
+float: left;
+margin: 0 0 10px 10px;
+border-radius: 5px;
+}
+.table {
+border-collapse: collapse;
+width: 100%;
+margin: 10px;
+margin: 10px auto;
+text-align:left;
+}
+.head1 {
+background: white;
+}
+.bluebut:hover {
+box-shadow: inset 0px 0px 10px 3px rgba(0,0,0,0.3);
+-moz-box-shadow: inset 0px 0px 10px 3px rgba(0,0,0,0.3);
+-webkit-box-shadow: inset 0px 0px 10px 3px rgba(0,0,0,0.3);
+}
